@@ -1,6 +1,6 @@
-<!-- Animated Coding Cover -->
+<!-- Animated Banner (Larger) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/developer.gif" height="250" alt="coding gif" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFlN21kMTA5Z3c0eGwzMzFxNnhqOHBwdnUwZGVhaTJkMzR2N2hmbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="450" alt="coder gif" />
 </p>
 
 <h1 align="center">Hi there, I'm Faisal Ahmed 👋</h1>
@@ -38,24 +38,15 @@
 
 ---
 
-## 💼 Experience Snapshot
+## 🎨 My Dev Style
 
-- 🧑‍💻 **Sales Team Lead**, *Elite Mart* (Nov 2022 - Jan 2024)  
-  Led a high-performing team, strategized campaigns, and boosted sales by 90%.
+🎯 I treat **every project like a product** – pixel-perfect UI, scalable backend, and smooth UX  
+🧩 I love **modular architecture**: components, hooks, routes, schemas – all clean & reusable  
+💬 I write code that speaks: **meaningful variable names, proper comments, Git hygiene**  
+🎨 I design in Figma first before diving into Tailwind or CSS  
+📦 I care about **performance, accessibility, and future-proofing**
 
-- 📈 **SEO Consultant**, *Fiverr*  
-  Helped brands like The Tea Story, Beardilizer, and Big Bang Cleaning grow their organic reach by 80–90%.
-
----
-
-## 🖼️ Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🔗 Savorly](https://savorly-faisal-ahmed.netlify.app/) | Full-featured recipe manager (auth, filter, like system) | React, Firebase, MongoDB |
-| [🔗 PowerPlay](https://powerplay-faisal-ahmed.netlify.app/) | Event booking platform for sports lovers | MERN Stack |
-| [🔗 EventNest](https://event-nest-faisal-ahmed.netlify.app/) | Elegant frontend event management app | React, Tailwind |
-| [🔗 Phudu Health](https://phudu-health-faisal-ahmed.netlify.app/) | Responsive UI for healthcare services | React, CSS |
+> "Good developers write code that works. Great developers write code that lasts."  
 
 ---
 
@@ -77,20 +68,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faisalahmed3&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faisalahmed3&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalahmed3&layout=compact&theme=radical" />
-</p>
-
----
-
-<p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.”</i><br/>
+  <i>“Code isn’t complete until it’s readable, reusable, and reliable.”</i><br/>
   — <b>Faisal Ahmed</b>
 </p>
