@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-🎓 CSE student at **East Delta University**  
+🎓 Computer Science & Engineering student at **East Delta University**  
 🧠 Passionate **MERN Stack Developer** (MongoDB, Express, React, Node)  
 📈 Former **Sales Team Lead at Elite Mart** – increased online sales by 90%  
 💻 Building full-stack apps that are fast, functional, and future-proof  
