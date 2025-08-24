@@ -50,11 +50,14 @@
 
 ---
 
-## 🌍 Volunteering & Leadership
+## 🌍 Volunteering, Leadership & Achievements
 
-- 💡 Co-Founder – **Tarunnar Shopno Foundation** (TSF)  
+- 🏅 **Aspire Leadership Program Certificate** – Completed the Aspire Leadership Program to enhance leadership, teamwork, and problem-solving skills  
+- 💡 Co-Founder – **Tarunnar Shopno Foundation (TSF)**  
 - 🌐 Volunteer – **World Vision Bangladesh**  
-- 🎓 Organizer – **EDU Engineering Day 2025**
+- 🎓 Organizer – **EDU Engineering Day 2025**  
+
+
 
 ---
 
