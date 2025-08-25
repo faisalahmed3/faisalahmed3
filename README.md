@@ -57,8 +57,6 @@
 - 🌐 Volunteer – **World Vision Bangladesh**  
 - 🎓 Organizer – **EDU Engineering Day 2025**  
 
-
-
 ---
 
 ## 📫 Let’s Connect
@@ -67,6 +65,8 @@
   <a href="mailto:faisalahmed4417@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/faisal-ahmed4417/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/faisalahmed3"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://portfolio-md-faisal-ahmed.netlify.app/"><img src="https://img.shields.io/badge/portfolio-6633cc?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="https://wa.me/8801876141732"><img src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ---
